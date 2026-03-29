@@ -1,0 +1,5 @@
+path: /data/hdd2/clearsar/yolo_dataset
+train: images/train
+val: images/val
+nc: 1
+names: ['rfi']

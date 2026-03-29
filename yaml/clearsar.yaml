@@ -1,0 +1,10 @@
+# path: /data/hdd2/clearsar/yolo_dataset
+# train: images/train
+# val: images/val
+# nc: 1
+# names: ['rfi']
+path: /data/hdd2/clearsar/yolo_dataset
+train: images/train
+val: images/val   # 修复为正确的验证集目录
+nc: 1
+names: ['rfi']
